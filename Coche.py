@@ -8,8 +8,8 @@ Extrae una superclase Vehículo con los campos
 :autor: Jaime Rabasco
 """
 
-class Coche:
 
+class Coche:
     num_serie = 1;
     cilindrada = 1000;
     fabricante = 'seat';
